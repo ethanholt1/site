@@ -1,6 +1,6 @@
 [submodule "games/t-rex-runner"]
 	path = games/t-rex-runner
-	url = http://github.com/wayou/t-rex-runner
+	url = http://github.com/wayou/t-rex-runner.git
 [submodule "games/M64js"]
 	path = games/M64js
-	url = http://github.com/Browncha023/M64js
+	url = http://github.com/Browncha023/M64js.git
