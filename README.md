@@ -12,5 +12,5 @@ some of these directories aren't populated, something with git not staging exter
 /games/dino from [wayou/t-rex-runner](https://github.com/wayou/t-rex-runner) <br>
 
 everything else should normally be in its place, with a few exceptions.
-
+ p.s.: if you know about git PLEASE reach out and help me with this
 
