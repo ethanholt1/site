@@ -1,0 +1,24 @@
+#pagetitle {
+  font-family: "Lucidia Console", monospace;
+  text-align: center;
+  color: white;
+}
+body, html {
+  background-color: #1c1c1c;
+}
+#entrysep {
+  width: 10%;
+  color: white;
+}
+#entryTitle {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 130%;
+  height: 130%;
+  margin-left: 90px;
+}
+#entryText {
+  color:white;
+  font-family: "Lucidia Console", monospace;
+  margin-left: 100px;
+}
